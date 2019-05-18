@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
 .container {
 	width: 1170px;
 	padding: 0 15px;
@@ -53,4 +58,8 @@
 
 .btn:hover {
 	opacity: 1;
+}
+
+.fab {
+	margin-right: 5px;
 }
